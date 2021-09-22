@@ -1,0 +1,19 @@
+{
+  "name": "prompt",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "customprompt": "./index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk-animation": "^1.6.0",
+    "git-repo-name": "^1.0.1",
+    "simple-git": "^1.131.0"
+  }
+}
